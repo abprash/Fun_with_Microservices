@@ -35,7 +35,6 @@ or in our case
 * to remove docker instances form the system entirely
 `sudo docker rm <container_id>`
 
-~If we specify a docker image which is not present in our local system, then Docker actually pulls it from the docker server and then runs it for us~
-~Smart boy Docker!~
+*If we specify a docker image which is not present in our local system, then Docker actually pulls it from the docker server and then runs it for us. Smart boy Docker!*
 
 
